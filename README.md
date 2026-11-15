@@ -2,7 +2,7 @@
 
 A free Windows 10 and 11 app for gamers: a pixel-perfect crosshair on top of any game, and over 1,100 custom mouse cursors you can edit.
 
-**Download:** [zynaps.site](https://zynaps.site/#x) or the newest installer under [Releases](https://github.com/DavidTG08/SynapseX-releases/releases/latest).
+**Download:** [zynaps.site](https://zynaps.site/#x) or the newest installer under [Releases](https://github.com/zynaps-site/SynapseX-releases/releases/latest).
 
 This repository only holds the installers and release notes.
 
